@@ -1,42 +1,24 @@
-//Aqui será a area para importação de aplicativos
 
 import "./App.css";
-
-// Importando Componente
-import HelloWord from './components/HelloWord';
+import Pessoa from "./components/Pessoa";
 
 function App() {
-//Criando a lógica por tras do HTML
 
-const name = 'Gabriel';
-const newName = name.toUpperCase();
-
-function sum(a, b){
-  return a + b;
-}
-
-const url = "https://via.placeholder.com/150"
+  const nome = "Maria";
 
   return (
-
-    // sempre usar className em JSX ao inves de só class
     <div className="App">
 
-      {/* posso puxar variaveis de fora do return */}
-      <p>Olá, {name}</p>
+      <Pessoa 
+      nome="Gabriel" 
+      foto="https://via.placeholder.com/150"
+      idade="17" 
+      profissao="estudante" 
+  />
 
-      {/* consigo alterar e puxar novamente a variavel */}
-      <p>Olá, {newName}</p>
-
-      {/* é possível a realização de equações */}
-      <p>Soma: {sum(1, 2)}</p>
-
-      <img src={url} alt="Minha Imagem" />
-
-      {/* Importando Componente */}
-      <HelloWord />
     </div>
   )
+
 }
 
 export default App;

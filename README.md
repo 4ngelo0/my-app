@@ -45,6 +45,18 @@ componentes podem ser importados e exportados em diferentes arquivos, veja o exe
 <img width="400px" src="./src/assets/HelloWord-Export.png">
 
 
+## `Aprendendo sobre Props`
+
+- são valores passados para componentes
+
+- podem deixa-los mais dinamicos
+- ou seja, mudando a execução por causa do valor do prop.
+
+- o valor é passado como um atributo na chamada do componente
+
+<img width="400px" src="./src/assets/props-import.png">
+<img width="400px" src="./src/assets/props-export.png">
+
 
 
 
