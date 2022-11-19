@@ -23,3 +23,12 @@ Falando de forma simples, JSX é o Html que está juntamente com o JavaScript, p
 <img width="500px" src="./src/assets/toReadMe/JXS em html - react.png">
 
 
+## `Aprendendo o básico sobre componentes`
+
+Assim como toda aplicação há JSX, toda aplicação há componentes
+Permite dividir a aplicação em partes
+Precisamos criar um `arquivo de componentes`
+
+
+
+
