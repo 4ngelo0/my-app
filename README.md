@@ -39,6 +39,12 @@ como se pode ver no exemplo:
 
 <img width="200px" src="./src/assets/arquivoComponent.png">
 
+componentes podem ser importados e exportados em diferentes arquivos, veja o exemplo:
+
+<img width="200px" src="./src/assets/HelloWord-Import.png">
+<img width="200px" src="./src/assets/HelloWord-Export.png">
+
+
 
 
 

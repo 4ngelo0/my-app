@@ -2,6 +2,9 @@
 
 import "./App.css";
 
+// Importando Componente
+import HelloWord from './components/HelloWord';
+
 function App() {
 //Criando a lógica por tras do HTML
 
@@ -29,6 +32,9 @@ const url = "https://via.placeholder.com/150"
       <p>Soma: {sum(1, 2)}</p>
 
       <img src={url} alt="Minha Imagem" />
+
+      {/* Importando Componente */}
+      <HelloWord />
     </div>
   )
 }
