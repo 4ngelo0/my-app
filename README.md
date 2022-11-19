@@ -19,3 +19,5 @@ Voce pode sempre verificar se há erros em seu código utilizando o console do n
 
 Falando de forma simples, JSX é o Html que está juntamente com o JavaScript, podendo fazer a utilizagem de variáveis e equações
 
+<img src="https://github.com/4ngelo0/projeto-REACT/issues/1#issue-1456086788">
+
