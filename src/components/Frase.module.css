@@ -1,0 +1,12 @@
+/* Não se pode colocar classes com -, exemplo: frase-container */
+
+.pessoaContainer{
+    padding: 15px 50px;
+    box-shadow: 0px 0px 40px rgb(171, 171, 189);
+    border-radius: 20px;
+}
+
+.pessoaContent {
+    font-size: 1.2em;
+    color: #bdbdbd;
+}

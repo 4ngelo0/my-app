@@ -57,6 +57,14 @@ componentes podem ser importados e exportados em diferentes arquivos, veja o exe
 <img width="400px" src="./src/assets/props-import.png">
 <img width="400px" src="./src/assets/props-export.png">
 
+## `Adicionando CSS no REACT`
 
+O css pode ser adicionado de forma glocal na aplicação,
+por meio do arquivo index.css por exemplo
+- porém é possível	estilizar a nível de componentes
+- utilizamos o CSS modules para isso 
+
+- Basta criar um arquivo como: `Componente.module.css`
+e chamar este css no componete
 
 

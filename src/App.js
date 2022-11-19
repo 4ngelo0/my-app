@@ -8,7 +8,6 @@ function App() {
 
   return (
     <div className="App">
-
       <Pessoa 
       nome="Gabriel" 
       foto="https://via.placeholder.com/150"
