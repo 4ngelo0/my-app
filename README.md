@@ -68,3 +68,19 @@ por meio do arquivo index.css por exemplo
 e chamar este css no componete
 
 
+<img width="400px" src="./src/assets/module.png">
+
+A estrutura é exatamente a mesma do css padrão
+
+podem o nome do arquivo sempre se utiliza (nome do arquivo).module.css para dar-mos um padrão
+a ele.
+
+Logo após, no arquivo que desejamos aplicar o css, iremos exporta-lo: 
+
+<img width="400px" src="./src/assets/css-export.png">
+
+para aplicarmos o css em uma div, basta user className="styles.(nome da div)", veja abaixo:
+
+<img width="400px" src="./src/assets/export.png">
+
+
