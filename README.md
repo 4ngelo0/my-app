@@ -2,8 +2,10 @@
 
 
 ## Anotações
-
 no diretório do projeto, se utiliza:
+
+### `cd (nome do projeto)`
+é utilizado este comando no inicio de todo projeto para abrir a pasta do projeto
 
 ### `npm start`
 
