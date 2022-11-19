@@ -9,6 +9,7 @@ no diretório do projeto, se utiliza:
 
 Usando esse comando, será aberto um localhost [http://localhost:3000](http://localhost:3000) 
 A pagina recarregará sempre que uma alteração for feita e salva
+
 Voce pode sempre verificar se há erros em seu código utilizando o console do navegador
 
 ## `Aprendendo o básico de JSX`
