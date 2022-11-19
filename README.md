@@ -37,7 +37,7 @@ Normalmente ficam em uma pasta chamada `components`
 Sempre criamos arquivos com a primeira letra de cada palavra em maiúscula,
 como se pode ver no exemplo:
 
-<img width="500px" src="./src/assets/arquivoComponent.png>
+<img width="500px" src="./src/assets/arquivoComponent.png">
 
 
 
