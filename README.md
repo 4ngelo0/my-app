@@ -20,7 +20,7 @@ Voce pode sempre verificar se há erros em seu código utilizando o console do n
 Falando de forma simples, JSX é o Html que está juntamente com o JavaScript, podendo fazer a utilizagem de variáveis e equações
 
 
-<img width="500px" src="./src/assets/toReadMe/JXS em html - react.png">
+<img width="500px" src="./src/assets/JXS em html - react.png">
 
 
 ## `Aprendendo o básico sobre componentes`
@@ -30,6 +30,14 @@ Assim como toda aplicação há JSX, toda aplicação há componentes
 Permite dividir a aplicação em partes
 
 Precisamos criar um `arquivo de componentes`
+E importa-lo onde precisamos utilizar
+
+Normalmente ficam em uma pasta chamada `components`
+
+Sempre criamos arquivos com a primeira letra de cada palavra em maiúscula,
+como se pode ver no exemplo:
+
+<img width="500px" src="./src/assets/arquivoComponent.png>
 
 
 
